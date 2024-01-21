@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Century Gothic",
+  "baseFontSize": 20,
+  "cssTheme": "Things"
 }
