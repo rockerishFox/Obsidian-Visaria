@@ -15,12 +15,19 @@ https://plugins.javalent.com/admonition/beginner/codeblocks
 ```ad-important
 collapse: open
 
-
+text
 ```
 hotkey : **ctrl + shift + A**
+collapsible compared to MD Formatting Assist
 
 ### Markdown Formatting Assistant
 hotkey: 
 **alt + Q** 
 **alt + C** -> callouts (works with admonitions)
+
+> [!tldr] 
+>Waaa
+
+> [!important] 
+> imp 
 

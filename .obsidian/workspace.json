@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Internal/Cheatsheet.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b5e11a753a2fa458",
@@ -128,13 +128,21 @@
                 "file": "Internal/Cheatsheet.md"
               }
             }
+          },
+          {
+            "id": "074f00cdc75b6909",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,9 +157,9 @@
   },
   "active": "3bd071c2dd3d2540",
   "lastOpenFiles": [
+    "Internal/Cheatsheet.md",
     "Welcome.md",
     "Untitled.canvas",
-    "Internal/Cheatsheet.md",
     "Internal",
     "Obsidian-Visaria",
     "2024-01-21.md",
