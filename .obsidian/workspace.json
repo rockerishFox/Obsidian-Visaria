@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bd071c2dd3d2540",
+            "id": "eae0823f37874a6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal/Cheatsheet.md",
-                "mode": "preview",
-                "source": true
+                "file": "NPC/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internal/Cheatsheet.md",
+                "file": "NPC/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internal/Cheatsheet.md",
+                "file": "NPC/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internal/Cheatsheet.md"
+                "file": "NPC/Untitled.md"
               }
             }
           },
@@ -155,11 +155,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3bd071c2dd3d2540",
+  "active": "eae0823f37874a6e",
   "lastOpenFiles": [
-    "Internal/Cheatsheet.md",
+    "NPC/_SPREADSHEET -.md",
+    "NPC/Untitled.md",
     "Welcome.md",
+    "NPC/Nobles and their houses/Bloodthorne.md",
+    "NPC/Nobles and their houses/Preston.md",
+    "NPC/Nobles and their houses/Rosenvelt.md",
+    "NPC/Nobles and their houses",
+    "Key items",
     "Untitled.canvas",
+    "NPC",
+    "Internal/Cheatsheet.md",
     "Internal",
     "Obsidian-Visaria",
     "2024-01-21.md",
