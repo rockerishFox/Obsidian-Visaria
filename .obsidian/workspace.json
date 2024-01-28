@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Untitled.md",
+                "file": "People & entities/Blighted Generals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f384655cf209afa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key items/Lotus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9fc566ce8fc92c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3995c17201be2b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Completed/Pinedale sleeping incident.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Untitled.md",
+                "file": "Quests/Completed/Pinedale sleeping incident.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Untitled.md",
+                "file": "Quests/Completed/Pinedale sleeping incident.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Untitled.md"
+                "file": "Quests/Completed/Pinedale sleeping incident.md"
               }
             }
           },
@@ -155,18 +192,25 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "eae0823f37874a6e",
+  "active": "3995c17201be2b7e",
   "lastOpenFiles": [
-    "NPC/_SPREADSHEET -.md",
-    "NPC/Untitled.md",
     "Welcome.md",
-    "NPC/Nobles and their houses/Bloodthorne.md",
-    "NPC/Nobles and their houses/Preston.md",
-    "NPC/Nobles and their houses/Rosenvelt.md",
-    "NPC/Nobles and their houses",
+    "Quests/Completed/Pinedale sleeping incident.md",
+    "Quests/In progress",
+    "Quests/Completed",
+    "Quests",
+    "People & entities/_SPREADSHEET -.md",
+    "People & entities/Gods",
+    "People & entities/Blighted Generals.md",
+    "Key items/Untitled.md",
+    "Key items/Lotus.md",
+    "People & entities/Nobles and their houses/Bloodthorne.md",
+    "People & entities/Nobles and their houses/Preston.md",
+    "People & entities/Nobles and their houses/Rosenvelt.md",
+    "People & entities/Nobles and their houses",
     "Key items",
     "Untitled.canvas",
-    "NPC",
+    "People & entities",
     "Internal/Cheatsheet.md",
     "Internal",
     "Obsidian-Visaria",
