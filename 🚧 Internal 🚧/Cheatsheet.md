@@ -10,6 +10,7 @@
 ### Emojis
 hotkey: **SHIFT + \`** 
 
+
 ### Admonitions
 https://plugins.javalent.com/admonition/beginner/codeblocks
 ```ad-important

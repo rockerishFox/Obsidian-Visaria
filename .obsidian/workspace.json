@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People & entities/Blighted Generals.md",
+                "file": "People & entities 💁/Blighted Generals.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key items/Lotus.md",
+                "file": "Key items 🔑/Lotus.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Completed/Pinedale sleeping incident.md",
+                "file": "People & entities 💁/Nobles and their houses/Rosenvelt 🟣⚫💿.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "416ca78c9c157d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "b5e11a753a2fa458",
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Completed/Pinedale sleeping incident.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Completed/Pinedale sleeping incident.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Completed/Pinedale sleeping incident.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -192,27 +204,28 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3995c17201be2b7e",
+  "active": "416ca78c9c157d6f",
   "lastOpenFiles": [
+    "Quests 📚/Completed/Pinedale sleeping incident.md",
+    "People & entities 💁/Nobles and their houses/Amaranth 🧼⚫💿.md",
+    "People & entities 💁/Nobles and their houses/Rosenvelt 🟣⚫💿.md",
+    "People & entities 💁/Nobles and their houses/Preston 🔴⚫💿.md",
+    "People & entities 💁/Nobles and their houses/Bloodthorne 🔵⚪⭐.md",
     "Welcome.md",
-    "Quests/Completed/Pinedale sleeping incident.md",
-    "Quests/In progress",
-    "Quests/Completed",
-    "Quests",
-    "People & entities/_SPREADSHEET -.md",
-    "People & entities/Gods",
-    "People & entities/Blighted Generals.md",
-    "Key items/Untitled.md",
-    "Key items/Lotus.md",
-    "People & entities/Nobles and their houses/Bloodthorne.md",
-    "People & entities/Nobles and their houses/Preston.md",
-    "People & entities/Nobles and their houses/Rosenvelt.md",
-    "People & entities/Nobles and their houses",
-    "Key items",
+    "🚧 Internal 🚧/Cheatsheet.md",
+    "Quests 📚/In progress",
+    "Quests 📚/Completed",
+    "Quests 📚",
+    "People & entities 💁/_SPREADSHEET -.md",
+    "People & entities 💁/Gods",
+    "People & entities 💁/Blighted Generals.md",
+    "Key items 🔑/Untitled.md",
+    "Key items 🔑/Lotus.md",
+    "People & entities 💁/Nobles and their houses",
+    "Key items 🔑",
     "Untitled.canvas",
-    "People & entities",
-    "Internal/Cheatsheet.md",
-    "Internal",
+    "People & entities 💁",
+    "🚧 Internal 🚧",
     "Obsidian-Visaria",
     "2024-01-21.md",
     "create a link.md"
