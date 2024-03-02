@@ -11,12 +11,12 @@
 
 
 # Tarvis
-statue of Lady Clare
+statue of Lady Lily Clare
 Lord Alfie Smith (minor)
 hometown of Gyro the Tonic Guy
 Museum: - deduced cultures from 2nd era
 
-## Clare museum
+## Lily Clare museum
 She worked with:
 Morg Kattarh = Great Scholar = Master = orc
 
