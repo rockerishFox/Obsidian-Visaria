@@ -95,9 +95,11 @@
             "id": "6bbe1927481e4a3c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -168,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places & locations 🗺️/Atarcia.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places & locations 🗺️/Atarcia.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places & locations 🗺️/Atarcia.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -240,26 +242,26 @@
   },
   "active": "6bbe1927481e4a3c",
   "lastOpenFiles": [
-    "Places & locations 🗺️/Adalucia.md",
-    "Quests 📚/Completed/Pinedale sleeping incident.md",
     "Quests 📚/Completed/Yando trial.md",
+    "Quests 📚/Completed/Pinedale sleeping incident.md",
+    "People & entities 💁/Blighted Generals.md",
+    "People & entities 💁/_SPREADSHEET -.md",
+    "People & entities 💁/Nobles and their houses/Preston 🔴⚫💿.md",
+    "People & entities 💁/Nobles and their houses/Bloodthorne 🔵⚪⭐.md",
+    "People & entities 💁/Nobles and their houses/Amaranth 🧼⚫💿.md",
+    "Key items 🔑/Untitled.md",
+    "Key items 🔑/Lotus.md",
+    "Places & locations 🗺️/Adalucia.md",
     "Places & locations 🗺️/Atarcia.md",
     "Welcome.md",
     "🚧 Internal 🚧/Cheatsheet.md",
     "People & entities 💁/Nobles and their houses/Rosenvelt 🟣⚫💿.md",
     "Places & locations/Adalucia",
     "Places & locations 🗺️",
-    "People & entities 💁/Blighted Generals.md",
-    "Key items 🔑/Lotus.md",
-    "People & entities 💁/_SPREADSHEET -.md",
-    "People & entities 💁/Nobles and their houses/Amaranth 🧼⚫💿.md",
-    "People & entities 💁/Nobles and their houses/Preston 🔴⚫💿.md",
-    "People & entities 💁/Nobles and their houses/Bloodthorne 🔵⚪⭐.md",
     "Quests 📚/In progress",
     "Quests 📚/Completed",
     "Quests 📚",
     "People & entities 💁/Gods",
-    "Key items 🔑/Untitled.md",
     "People & entities 💁/Nobles and their houses",
     "Key items 🔑",
     "Untitled.canvas",
