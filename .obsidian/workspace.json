@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bbe1927481e4a3c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -228,7 +238,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fdbbd33cb8a3eead",
+  "active": "6bbe1927481e4a3c",
   "lastOpenFiles": [
     "Places & locations 🗺️/Adalucia.md",
     "Quests 📚/Completed/Pinedale sleeping incident.md",
